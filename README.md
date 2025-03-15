@@ -74,4 +74,4 @@ This project was developed as part of the **CIIC3015** course at University of P
 ### **Contact Information**
 For any questions or suggestions, please contact:
 - **Instructor**: Alanis Negroni ([alanis.negroni@upr.edu](mailto:alanis.negroni@upr.edu))
-- **Student Names**: [Elián E. Soto Ramos] & [Isaac D.]
+- **Student Names**: [Elián E. Soto Ramos]
