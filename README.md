@@ -51,18 +51,6 @@ The game consists of the following files:
 - **README.md**: This file, which provides instructions for setting up and running the game.
 - **local_db.py**: A simple class to create and safe the high score and username locally in a text file.
 - **firebase_db.py**: A class where are the realtime database logic is implemented.
----
-
-### **Tasks to Complete**
-The starter code contains several incomplete sections marked with `TODO` comments. These sections should be completed as per the following requirements:
-1. **Task 1**: Implement `rotate_piece` in `tetrimino.py`.
-2. **Task 2**: Draw the next piece in `ui.py`.
-3. **Task 3**: Implement `drop_piece()` to drop the current piece downwards.
-4. **Task 4**: Implement game over logic.
-5. **Task 5**: Implement pause functionality.
-6. **Task 6**: Implement line clearing using recursion.
-7. **Task 7**: Update the score when lines are cleared.
-8. **Task 8**: Add the teams name in this README file
 
 ---
 
