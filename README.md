@@ -8,15 +8,6 @@
 ### **Project Overview**
 This is a Python-based implementation of the classic *Tetris* game using the **Pygame** library. The game allows players to manipulate falling Tetrimino pieces, attempting to fill rows on the game grid without leaving gaps. When a row is filled, it is cleared from the board, and the player's score increases. The game ends when there is no room for a new piece to appear at the top of the screen.
 
-### **Features to Implement**
-- Rotation of Tetrimino pieces.
-- Display of the next Tetrimino.
-- Logic to drop pieces and lock them in place.
-- Scorekeeping and line clearing logic.
-- Pause and game-over functionality.
-- Online leaderboard
-- Prediction piece
-- Background
 ---
 
 ### **Controls**
